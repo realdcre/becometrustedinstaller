@@ -1,0 +1,2 @@
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.2\net8.0\publish\win-x86\becometi.pdb
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.2\net8.0\publish\win-x86\becometi.exe

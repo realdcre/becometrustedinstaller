@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\Become Trusted Installer.csproj",
+      "projectUniqueName": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\Become Trusted Installer.csproj",
       "projectName": "becometi",
-      "projectPath": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\Become Trusted Installer.csproj",
+      "projectPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\Become Trusted Installer.csproj",
       "packagesPath": "C:\\Users\\Constantin Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\obj\\",
+      "outputPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

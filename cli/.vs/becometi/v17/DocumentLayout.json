@@ -1,17 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\",
+  "WorkspaceRootPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|c:\\users\\constantin jacob\\documents\\visual studio 2022\\repos\\cli\\becometi\\become trusted installer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|solutionrelative:becometi\\become trusted installer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|c:\\users\\constantin jacob\\documents\\visual studio 2022\\repos\\cli\\becometi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\cli\\becometi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|solutionrelative:becometi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|c:\\users\\constantin jacob\\documents\\visual studio 2022\\repos\\cli\\becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\cli\\becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|solutionrelative:becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -22,27 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Become Trusted Installer",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\Become Trusted Installer.csproj",
-              "RelativeDocumentMoniker": "becometi\\Become Trusted Installer.csproj",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\Become Trusted Installer.csproj",
-              "RelativeToolTip": "becometi\\Become Trusted Installer.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-20T15:45:49.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "app.manifest",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\app.manifest",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\app.manifest",
               "RelativeDocumentMoniker": "becometi\\app.manifest",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\app.manifest",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\app.manifest",
               "RelativeToolTip": "becometi\\app.manifest",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
@@ -50,15 +34,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\Program.cs",
               "RelativeDocumentMoniker": "becometi\\Program.cs",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\Visual Studio 2022\\repos\\cli\\becometi\\Program.cs",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\Program.cs",
               "RelativeToolTip": "becometi\\Program.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAADEAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T15:23:16.66Z"
+              "WhenOpened": "2024-07-20T15:23:16.66Z",
+              "EditorCaption": ""
             }
           ]
         }

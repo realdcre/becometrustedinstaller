@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cli"
+    "\\cli",
+    "\\cli\\becometi"
   ],
+  "SelectedNode": "\\cli\\becometi\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

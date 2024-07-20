@@ -26,3 +26,8 @@ D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\refint\Become Trus
 D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.pdb
 D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.genruntimeconfig.cache
 D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\ref\Become Trusted Installer.dll
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\Debug\net8.0\Become Trusted Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\Debug\net8.0\Become Trusted Installer.AssemblyInfoInputs.cache
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\Debug\net8.0\Become Trusted Installer.AssemblyInfo.cs
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\Debug\net8.0\Become Trusted Installer.csproj.CoreCompileInputs.cache
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\Debug\net8.0\Become Trusted Installer.sourcelink.json

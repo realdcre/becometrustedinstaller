@@ -12,31 +12,64 @@ using System.Security.Principal;
     string path = Directory.GetCurrentDirectory();
     Console.WriteLine("The current directory is {0}", path);
     Console.WriteLine(IsAdministrator());
+Console.Clear();
 
     Console.WriteLine("Welcome to BecomeTrustedInstaller");
     Console.WriteLine("Select Option:");
     Console.WriteLine("[F] - Run File Explorer");
     Console.WriteLine("[P] - Run PowerShell");
     Console.WriteLine("[C] - Run Command Prompt");
+    Console.WriteLine("[+] - Extra Features");
 
     string inp = Console.ReadLine();
 
-    if (inp == "f" || inp == "F")
+if (inp == "f" || inp == "F")
+{
+    runscript("FE.ps1");
+}
+else if (inp == "P" || inp == "p")
+{
+    runscript("PS.ps1");
+}
+else if (inp == "C" || inp == "c")
+{
+    runscript("CMD.ps1");
+} else if (inp == "+")
+{
+    Console.Clear();
+    Console.WriteLine("Select Option:");
+    Console.WriteLine("[1] - First Run Setup]");
+    Console.WriteLine("[2] - Credits");
+    Console.WriteLine("[3] - Restart Trusted Installer");
+    string imp2 = Console.ReadLine();
+
+    if (imp2 == "1")
     {
-        runscript("FE.ps1");
-    }
-    else if (inp == "P" || inp == "p")
+        runscript("installdependencies");
+    } else if (imp2 == "2")
     {
-        runscript("PS.ps1");
-    }
-    else if (inp == "C" || inp == "c")
+        Console.Clear();
+        Console.WriteLine("BecomeTrustedInstaller CLI1.2 by dcre");
+        Console.WriteLine("Running on .NET 8 and Microsoft Powershell");
+        Console.WriteLine("1.1.20 of NtObjectManager by Googleprojectzero");
+        Console.WriteLine("Based on the Research by tyranid");
+        System.Environment.Exit(1);
+    } else if (imp2 == "3")
     {
-        runscript("CMD.ps1");
+        runscript("restarttiservice.ps1");
     }
-    else
+
+}
+
+
+    
+    
+     else 
     {
         System.Environment.Exit(0);
     }
+
+    
 
     static void runscript(string scriptname)
     {
