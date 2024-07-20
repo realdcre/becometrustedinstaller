@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>becometi</id>
+    <version>1.0.0</version>
+    <authors>becometi</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0/ti-initial-letter-vector-logo-icon-207586553.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\.dev\vs\becometi\becometi\bin\CLI.1.0\net8.0\becometi.runtimeconfig.json" target="lib\net8.0\becometi.runtimeconfig.json" />
+    <file src="D:\.dev\vs\becometi\becometi\bin\CLI.1.0\net8.0\becometi.dll" target="lib\net8.0\becometi.dll" />
+    <file src="D:\.dev\vs\becometi\becometi\ti-initial-letter-vector-logo-icon-207586553.ico" target="content\ti-initial-letter-vector-logo-icon-207586553.ico" />
+    <file src="D:\.dev\vs\becometi\becometi\ti-initial-letter-vector-logo-icon-207586553.ico" target="contentFiles\any\net8.0\ti-initial-letter-vector-logo-icon-207586553.ico" />
+  </files>
+</package>

@@ -1,0 +1,28 @@
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.AssemblyInfoInputs.cache
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.AssemblyInfo.cs
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.csproj.CoreCompileInputs.cache
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.exe
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.deps.json
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.runtimeconfig.json
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.dll
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.pdb
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.dll
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\refint\Become Trusted Installer.dll
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.pdb
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.genruntimeconfig.cache
+C:\Users\Constantin Jacob\source\repos\Become Trusted Installer\Become Trusted Installer\obj\Debug\net8.0\ref\Become Trusted Installer.dll
+D:\.dev\vs\becometi\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.exe
+D:\.dev\vs\becometi\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.deps.json
+D:\.dev\vs\becometi\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.runtimeconfig.json
+D:\.dev\vs\becometi\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.dll
+D:\.dev\vs\becometi\Become Trusted Installer\bin\Debug\net8.0\Become Trusted Installer.pdb
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.AssemblyInfoInputs.cache
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.AssemblyInfo.cs
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.csproj.CoreCompileInputs.cache
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.dll
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\refint\Become Trusted Installer.dll
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.pdb
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\Become Trusted Installer.genruntimeconfig.cache
+D:\.dev\vs\becometi\Become Trusted Installer\obj\Debug\net8.0\ref\Become Trusted Installer.dll

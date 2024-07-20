@@ -1,0 +1,14 @@
+D:\.dev\vs\becometi\becometi\bin\CLI.1.0\net8.0\becometi.exe
+D:\.dev\vs\becometi\becometi\bin\CLI.1.0\net8.0\becometi.deps.json
+D:\.dev\vs\becometi\becometi\bin\CLI.1.0\net8.0\becometi.runtimeconfig.json
+D:\.dev\vs\becometi\becometi\bin\CLI.1.0\net8.0\becometi.dll
+D:\.dev\vs\becometi\becometi\bin\CLI.1.0\net8.0\becometi.pdb
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\Become Trusted Installer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\Become Trusted Installer.AssemblyInfoInputs.cache
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\Become Trusted Installer.AssemblyInfo.cs
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\Become Trusted Installer.csproj.CoreCompileInputs.cache
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\becometi.dll
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\refint\becometi.dll
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\becometi.pdb
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\Become Trusted Installer.genruntimeconfig.cache
+D:\.dev\vs\becometi\becometi\obj\CLI.1.0\net8.0\ref\becometi.dll

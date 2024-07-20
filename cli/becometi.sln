@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Become Trusted Installer", "becometi\Become Trusted Installer.csproj", "{D32B61C6-C964-4B78-BD02-0EDA79CF531A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		beta 1|Any CPU = beta 1|Any CPU
+		CLI.1.0|Any CPU = CLI.1.0|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32B61C6-C964-4B78-BD02-0EDA79CF531A}.beta 1|Any CPU.ActiveCfg = beta 1|Any CPU
+		{D32B61C6-C964-4B78-BD02-0EDA79CF531A}.beta 1|Any CPU.Build.0 = beta 1|Any CPU
+		{D32B61C6-C964-4B78-BD02-0EDA79CF531A}.CLI.1.0|Any CPU.ActiveCfg = CLI.1.0|Any CPU
+		{D32B61C6-C964-4B78-BD02-0EDA79CF531A}.CLI.1.0|Any CPU.Build.0 = CLI.1.0|Any CPU
+		{D32B61C6-C964-4B78-BD02-0EDA79CF531A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32B61C6-C964-4B78-BD02-0EDA79CF531A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32B61C6-C964-4B78-BD02-0EDA79CF531A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32B61C6-C964-4B78-BD02-0EDA79CF531A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7CDDAD2-AAB9-463E-8C1D-96A4AB63F378}
+	EndGlobalSection
+EndGlobal
