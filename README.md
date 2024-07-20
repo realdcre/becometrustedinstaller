@@ -3,6 +3,8 @@
 Become Trusted Installer 
 with this simple collection of Powershell Scripts.
 
+(Download the source code as zip)
+
 ## IN ORDER FOR THIS TO WORK, YOU HAVE TO ENABLE SCRIPT RUNNING IN THE WINDOWS DEV SETTINGS
 
 on first use: run installdependencies.ps1 as ADMIN
