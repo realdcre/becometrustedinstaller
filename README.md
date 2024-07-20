@@ -30,4 +30,4 @@ They use NtObjectManager to get the processname from TrustedInstaller.exe to cre
 
 # roadmap
 - Package into a singular .exe file
-(- create a script that can run core windows services as TrustedInstaller out of the box) 
+- (create a script that can run core windows services as TrustedInstaller out of the box) 
