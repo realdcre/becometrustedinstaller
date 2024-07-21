@@ -32,7 +32,5 @@ The executable is just a wrapper for the .ps1 scripts to make them feel nicer. T
 
 
 # roadmap
-- Package into a singular .exe file (done to part)
-- (create a script that can run core windows services as TrustedInstaller out of the box) 
 - Create GUI
-- Pack all ps1 scrips into the exe aswell
+- create installer
