@@ -1,3 +1,7 @@
+![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/becometilogo-upscaled)
+
+
+
 # becometrustedinstaller
 
 Become Trusted Installer 
@@ -17,7 +21,7 @@ All my Implementation in this repository is based on the fantastic research by t
 
 
 # What are the powershell-scripts doing?
-![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/documentation/trustedinstaller1.png)
+![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/trustedinstaller1.png)
 The Windows users out there will probably know the pain of wanting to delete a file in system directories only to find it protected by Microsofts dreading TrustedInstaller.
 This script uses PowerShell to "impersonate" TrustedInstaller. 
 
