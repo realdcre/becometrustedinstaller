@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\becometi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\becometi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "becometi",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\becometi.csproj",
+              "RelativeDocumentMoniker": "becometi\\becometi.csproj",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\becometi.csproj",
+              "RelativeToolTip": "becometi\\becometi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T17:42:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\app.manifest",
+              "RelativeDocumentMoniker": "becometi\\app.manifest",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\app.manifest",
+              "RelativeToolTip": "becometi\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-07-21T17:04:03.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "becometi\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\AssemblyInfo.cs",
+              "RelativeToolTip": "becometi\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:32:19.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\App.xaml",
+              "RelativeDocumentMoniker": "becometi\\App.xaml",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\App.xaml",
+              "RelativeToolTip": "becometi\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T16:31:46.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "becometi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\MainWindow.xaml",
+              "RelativeToolTip": "becometi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T09:30:26.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "becometi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "becometi\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:30:25.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

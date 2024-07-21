@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("becometi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb7e0f7ba1992bc5315d08654ddf97077cf6496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7d24d1d17101351fdccbee4b2303896c42fb02e")]
 [assembly: System.Reflection.AssemblyProductAttribute("becometi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("becometi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

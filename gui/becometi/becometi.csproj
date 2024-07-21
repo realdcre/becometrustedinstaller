@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>becometilogo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="becometilogo-upscaled.png" />
+    <None Remove="becometilogo.ico" />
+    <None Remove="fileexplorer.png" />
+    <None Remove="LockScreenLogo.scale-400.png" />
+    <None Remove="powershell_logo-1536x1536-1089214986.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="becometilogo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="becometilogo-upscaled.png" />
+    <Resource Include="becometilogo.ico" />
+    <Resource Include="fileexplorer.png" />
+    <Resource Include="LockScreenLogo.scale-400.png" />
+    <Resource Include="powershell_logo-1536x1536-1089214986.png" />
+  </ItemGroup>
+
+</Project>

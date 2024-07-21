@@ -1,0 +1,39 @@
+﻿<Window x:Name="Window" x:Class="becometi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:becometi"
+        mc:Ignorable="d"
+        Title="Become Trusted Installer
+        " Width="528" Background="Black" Icon="/becometilogo.ico" ResizeMode="NoResize" Height="407">
+    <Canvas HorizontalAlignment="Center" Height="461" VerticalAlignment="Top" Width="568" Margin="0,-6,0,0">
+        <Button x:Name="fe" Content="&#xD;&#xA;" Height="137" Canvas.Left="211.5" Canvas.Top="119.37" Width="137" Click="fe_button" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <Button.Background>
+                <ImageBrush ImageSource="/fileexplorer.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="cmd" Content="&#xD;&#xA;" Height="137" Canvas.Left="369" Canvas.Top="119.37" Width="137" HorizontalAlignment="Left" VerticalAlignment="Center" Click="cmd_button" BorderBrush="White">
+            <Button.Background>
+                <ImageBrush ImageSource="/LockScreenLogo.scale-400.png" Stretch="None"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="installdep" Content="Install Dependencies" Height="19" Canvas.Left="60" Canvas.Top="323.707" Width="137" Click="install_button" HorizontalAlignment="Center" VerticalAlignment="Top" BorderBrush="White" Background="#FF232323" Foreground="White"/>
+        <Button x:Name="startti" Content="Start" Height="61" Canvas.Left="408" Canvas.Top="298.891" Width="59" HorizontalAlignment="Left" VerticalAlignment="Center" Click="start_button" BorderBrush="White" Background="#FF232323" Foreground="#FFDDDDDD"/>
+        <TextBlock Height="24" Canvas.Left="60" TextWrapping="Wrap" Text="On First Run" Canvas.Top="298.891" Width="137" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" TextAlignment="Center"/>
+        <TextBlock Height="16" Canvas.Left="373.5" TextWrapping="Wrap" Text="TrustedInstaller Service" Canvas.Top="282.187" Width="128" Foreground="White" TextAlignment="Center"/>
+        <TextBlock Height="16" Canvas.Left="60" TextWrapping="Wrap" Text="Run as Trusted Installer" Canvas.Top="92.853" Width="442" Foreground="White" TextAlignment="Center"/>
+        <Rectangle Height="61" Canvas.Left="60" Stroke="Black" Canvas.Top="27.333" Width="63" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/becometilogo-upscaled.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock Height="55" Canvas.Left="128.5" TextWrapping="Wrap" Text="Become Trusted Installer" Canvas.Top="27.333" Width="372" Foreground="White" FontSize="32" FontWeight="Bold"/>
+        <Button x:Name="ps" Content="&#xD;&#xA;" Height="137" Canvas.Left="60" Canvas.Top="119.37" Width="137" HorizontalAlignment="Left" Click="ps_button" VerticalAlignment="Center" BorderBrush="White">
+            <Button.Background>
+                <ImageBrush ImageSource="/powershell_logo-1536x1536-1089214986.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock Height="69" Canvas.Left="211.5" TextWrapping="Wrap" Canvas.Top="282.187" Width="137" TextAlignment="Center" Foreground="White" FontSize="11"><Run/><LineBreak/><Run Text="BecomeTrustedInstaller"/><LineBreak/><Run Text="GUI v1.0 by dcre"/><LineBreak/><Run Text="NtObjectManager v1.1.20"/><LineBreak/><Run/></TextBlock>
+    </Canvas>
+</Window>
