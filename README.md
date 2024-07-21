@@ -1,4 +1,4 @@
-![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/becometilogo-upscaled)
+![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/becometilogo-upscaled.png)
 
 
 
