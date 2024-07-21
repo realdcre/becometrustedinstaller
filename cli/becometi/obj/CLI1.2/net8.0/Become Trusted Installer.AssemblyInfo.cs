@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("becometi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("CLI1.2")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecc5b9758c7cf298ae1e2bcb19dd71a08c5ea28e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb7e0f7ba1992bc5315d08654ddf97077cf6496")]
 [assembly: System.Reflection.AssemblyProductAttribute("becometi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("becometi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

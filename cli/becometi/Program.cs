@@ -14,64 +14,80 @@ using System.Security.Principal;
     Console.WriteLine(IsAdministrator());
 Console.Clear();
 
+ while (true)
+{
     Console.WriteLine("Welcome to BecomeTrustedInstaller");
     Console.WriteLine("Select Option:");
     Console.WriteLine("[F] - Run File Explorer");
     Console.WriteLine("[P] - Run PowerShell");
     Console.WriteLine("[C] - Run Command Prompt");
     Console.WriteLine("[+] - Extra Features");
-
+    runscript("restarttiservice.ps1");
     string inp = Console.ReadLine();
 
-if (inp == "f" || inp == "F")
-{
-    runscript("FE.ps1");
-}
-else if (inp == "P" || inp == "p")
-{
-    runscript("PS.ps1");
-}
-else if (inp == "C" || inp == "c")
-{
-    runscript("CMD.ps1");
-} else if (inp == "+")
-{
-    Console.Clear();
-    Console.WriteLine("Select Option:");
-    Console.WriteLine("[1] - First Run Setup]");
-    Console.WriteLine("[2] - Credits");
-    Console.WriteLine("[3] - Restart Trusted Installer");
-    string imp2 = Console.ReadLine();
-
-    if (imp2 == "1")
-    {
-        runscript("installdependencies");
-    } else if (imp2 == "2")
+    if (inp == "f" || inp == "F")
     {
         Console.Clear();
-        Console.WriteLine("BecomeTrustedInstaller CLI1.2 by dcre");
-        Console.WriteLine("Running on .NET 8 and Microsoft Powershell");
-        Console.WriteLine("1.1.20 of NtObjectManager by Googleprojectzero");
-        Console.WriteLine("Based on the Research by tyranid");
-        System.Environment.Exit(1);
-    } else if (imp2 == "3")
+        runscript("FE.ps1");
+    }
+    else if (inp == "P" || inp == "p")
     {
-        runscript("restarttiservice.ps1");
+        Console.Clear();
+        runscript("PS.ps1");
+    }
+    else if (inp == "C" || inp == "c")
+    {
+        Console.Clear();
+        runscript("CMD.ps1");
+    }
+    else if (inp == "+")
+    {
+        Console.Clear();
+        Console.WriteLine("Select Option:");
+        Console.WriteLine("[1] - First Run Setup]");
+        Console.WriteLine("[2] - Credits");
+        Console.WriteLine("[3] - Start Trusted Installer Manually");
+        Console.WriteLine("[4] - Stop Trusted Installer");
+        string imp2 = Console.ReadLine();
+
+        if (imp2 == "1")
+        {
+            Console.Clear();
+            runscript("installdependencies.ps1");
+        }
+        else if (imp2 == "2")
+        {
+            Console.Clear();
+            Console.WriteLine("BecomeTrustedInstaller CLI1.2 by dcre");
+            Console.WriteLine("Running on .NET 8 and Microsoft Powershell");
+            Console.WriteLine("1.1.20 of NtObjectManager by Googleprojectzero");
+            Console.WriteLine("Based on the Research by tyranid");
+            System.Environment.Exit(1);
+        }
+        else if (imp2 == "3")
+        {
+            Console.Clear();
+            runscript("restarttiservice.ps1");
+        } else if (imp2 == "4")
+        {
+            Console.Clear();
+            runscript("stoptiservice.ps1");
+        }
+
     }
 
-}
 
 
-    
-    
-     else 
+
+    else
     {
         System.Environment.Exit(0);
     }
 
-    
 
-    static void runscript(string scriptname)
+}
+
+static void runscript(string scriptname)
     {
         ProcessStartInfo processInfo = new ProcessStartInfo("powershell.exe");
         processInfo.Arguments = $"-File \"{scriptname}\"";
@@ -82,7 +98,5 @@ else if (inp == "C" || inp == "c")
     processInfo.Verb = "runas"; // This ensures the process is started with elevated privileges
 
     Process process = Process.Start(processInfo);
-        process.WaitForExit();
-
-        process.Close();
+      
     }

@@ -6,10 +6,10 @@
     <RootNamespace>becometi</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Configurations>Debug;Release;beta 1;CLI.1.0;CLI1.2</Configurations>
+    <Configurations>Debug;Release;beta 1;CLI.1.0;CLI1.2;CLI1.5</Configurations>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <AssemblyName>becometi</AssemblyName>
-    <ApplicationIcon>ti-initial-letter-vector-logo-icon-207586553.ico</ApplicationIcon>
+    <ApplicationIcon>becometilogo.ico</ApplicationIcon>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CLI.1.0|AnyCPU'">
@@ -25,7 +25,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="ti-initial-letter-vector-logo-icon-207586553.ico" />
+    <None Remove="CMD.ps1" />
+    <None Remove="FE.ps1" />
+    <None Remove="installdependencies.ps1" />
+    <None Remove="PS.ps1" />
+    <None Remove="restarttiservice.ps1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="becometilogo.ico" />
   </ItemGroup>
 
 </Project>

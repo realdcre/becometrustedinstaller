@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>becometi</id>
+    <version>1.0.0</version>
+    <authors>becometi</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="8cb7e0f7ba1992bc5315d08654ddf97077cf6496" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0/becometilogo.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.5\net8.0\becometi.runtimeconfig.json" target="lib\net8.0\becometi.runtimeconfig.json" />
+    <file src="C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.5\net8.0\becometi.dll" target="lib\net8.0\becometi.dll" />
+    <file src="C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\becometilogo.ico" target="content\becometilogo.ico" />
+    <file src="C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\becometilogo.ico" target="contentFiles\any\net8.0\becometilogo.ico" />
+  </files>
+</package>

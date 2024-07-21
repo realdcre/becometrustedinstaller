@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|solutionrelative:becometi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\cli\\becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D32B61C6-C964-4B78-BD02-0EDA79CF531A}|becometi\\Become Trusted Installer.csproj|solutionrelative:becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
@@ -18,11 +21,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIMUAAAAAAAAAAAkwJUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-21T09:00:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\app.manifest",
               "RelativeDocumentMoniker": "becometi\\app.manifest",
@@ -40,7 +56,7 @@
               "RelativeDocumentMoniker": "becometi\\Program.cs",
               "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\cli\\becometi\\Program.cs",
               "RelativeToolTip": "becometi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAYAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAGUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T15:23:16.66Z",
               "EditorCaption": ""

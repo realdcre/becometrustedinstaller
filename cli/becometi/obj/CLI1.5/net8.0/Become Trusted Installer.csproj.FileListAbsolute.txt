@@ -1,0 +1,15 @@
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.5\net8.0\becometi.exe
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.5\net8.0\becometi.deps.json
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.5\net8.0\becometi.runtimeconfig.json
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.5\net8.0\becometi.dll
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\bin\CLI1.5\net8.0\becometi.pdb
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\Become Trusted Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\Become Trusted Installer.AssemblyInfoInputs.cache
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\Become Trusted Installer.AssemblyInfo.cs
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\Become Trusted Installer.csproj.CoreCompileInputs.cache
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\Become Trusted Installer.sourcelink.json
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\becometi.dll
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\refint\becometi.dll
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\becometi.pdb
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\Become Trusted Installer.genruntimeconfig.cache
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\cli\becometi\obj\CLI1.5\net8.0\ref\becometi.dll
