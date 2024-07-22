@@ -5,7 +5,7 @@
 # becometrustedinstaller
 
 Become Trusted Installer 
-with this simple collection of Powershell Scripts.
+with the power of PowerShell! 
 
 
 ## IN ORDER FOR THIS TO WORK, YOU HAVE TO ENABLE SCRIPT RUNNING IN THE WINDOWS DEV SETTINGS
@@ -28,9 +28,9 @@ They use NtObjectManager to get the processname from TrustedInstaller.exe to cre
 Start / Stop the TrustedInstaller Service
 
 # What is the Executable doing?
-The executable is just a wrapper for the .ps1 scripts to make them feel nicer. The executable needs to run with Elevated Privileges in order to run the ps1 scripts as admin.
+The executable is just a wrapper for the .ps1 scripts to make them feel nicer. The executable needs to run with Elevated Privileges in order to run the ps1 scripts as admin. GUI editions also add a interaction layer to the cli.
 
 
 # roadmap
-- Create GUI
 - create installer
+- update GUI/ WinUI implementation
