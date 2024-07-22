@@ -30,6 +30,7 @@ Start / Stop the TrustedInstaller Service
 # What is the Executable doing?
 The executable is just a wrapper for the .ps1 scripts to make them feel nicer. The executable needs to run with Elevated Privileges in order to run the ps1 scripts as admin. GUI editions also add a interaction layer to the cli.
 
+![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/Becometiuiq.png)
 
 # roadmap
 - create installer
