@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = becometi
-build_property.ProjectDir = C:\Users\Constantin Jacob\source\repos\becometi\becometi\
+build_property.ProjectDir = C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\gui\becometi\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,58 @@
+﻿<Window x:Class="becometi.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:becometi"
+        mc:Ignorable="d"
+        Title="Extras - Become Trusted Installer" Height="470" Width="310" ResizeMode="NoResize" Background="Black">
+    <Grid OpacityMask="White">
+        <Canvas>
+            <Rectangle Height="61" Canvas.Left="116.5" Stroke="Black" Canvas.Top="17.51" Width="63" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/becometilogo-upscaled.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <TextBlock Height="41" Canvas.Left="10" TextWrapping="Wrap" Text="Become Trusted Installer" Canvas.Top="83.51" Width="276" Foreground="White" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center"/>
+            <TextBlock Height="106" TextWrapping="Wrap" Canvas.Top="115.54" Width="276" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White" TextAlignment="Center" Canvas.Left="10">
+                <Run Text="Version: GUI 1.2"/><LineBreak/>
+                <Run Text="Based on: BTI Core 1.5"/><LineBreak/>
+                <Run Text="Created by: dcre"/><LineBreak/><Run/><LineBreak/>
+                <Run Text="NtObjectManager Version 1.1.20"/><LineBreak/>
+                <Run Text="Based on Research by tyrannid"/><LineBreak/><Run/>
+            </TextBlock>
+            <Button Content="GitHub" Height="21" Canvas.Left="10" Click="github_button" Canvas.Top="227.26" Width="276" HorizontalAlignment="Left" VerticalAlignment="Center" Background="#FF232323" BorderBrush="White" Foreground="White"/>
+            <Rectangle Height="2" Canvas.Left="10" Stroke="White" Canvas.Top="287.26" Width="276" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <Button Content="Tyranid´s Lair" Height="21" Canvas.Left="10" Click="tyranidslair_button" Canvas.Top="253.26" Width="276" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF232323" BorderBrush="White" Foreground="White"/>
+            <TextBox Name="pscommand" KeyDown="pscommand_KeyDown" Height="21" Canvas.Left="9.833" TextWrapping="Wrap" Canvas.Top="308.927" Width="250" Background="#FF232323" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Button Content="" Height="21" Canvas.Left="264.667" Canvas.Top="308.76" Width="21" HorizontalAlignment="Center" VerticalAlignment="Top" OpacityMask="#FF232323" Foreground="#FF232323" Click="send_button" BorderBrush="{x:Null}" RenderTransformOrigin="0.54,0.87">
+                <Button.Background>
+                    <ImageBrush ImageSource="/ic_fluent_send_24_filled.png"/>
+                </Button.Background>
+            </Button>
+            <Button Content="Uninstall dependencies" Height="21" Canvas.Left="10" Click="uninstalldep_button" Canvas.Top="333.927" Width="250" HorizontalAlignment="Center" VerticalAlignment="Top" Background="#FF232323" BorderBrush="White" Foreground="White"/>
+            <TextBlock Height="49" Canvas.Left="66" TextWrapping="Wrap" Canvas.Top="375.04" Width="203" Foreground="White">
+                <Run Text="dcre"/><LineBreak/>
+                <Run Text="@realdcre"/><LineBreak/>
+                <Run Text="Developer from Mannheim, Germany"/><LineBreak/><Run/>
+            </TextBlock>
+            <Button Content="" Height="21" Canvas.Left="265" Click="github_profile" Canvas.Top="375.04" Width="21" OpacityMask="#FF232323" Foreground="#FF232323" BorderBrush="{x:Null}" RenderTransformOrigin="0.54,0.87" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <Button.Background>
+                    <ImageBrush ImageSource="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
+                </Button.Background>
+            </Button>
+            <Button Content="" Height="21" Canvas.Left="240" Canvas.Top="375.04" Width="20" HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="#00707070" Click="twitterprofile">
+                <Button.Background>
+                    <ImageBrush ImageSource="/logo-white.png"/>
+                </Button.Background>
+            </Button>
+            <Rectangle Stroke="White" Height="2" Canvas.Left="10" Canvas.Top="367" Width="276"/>
+            <Rectangle Stroke="White" Height="50" Width="50" Canvas.Left="10" Canvas.Top="374.02">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="https://avatars.githubusercontent.com/u/107809443?v=4"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <TextBlock Height="15" Canvas.Left="10" TextWrapping="Wrap" Text="Run PowerShell Command" Canvas.Top="294.26" Width="158" Foreground="White" FontSize="11" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Canvas>
+    </Grid>
+</Window>

@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:becometi"
         mc:Ignorable="d"
         Title="Become Trusted Installer
-        " Width="528" Background="Black" Icon="/becometilogo.ico" ResizeMode="NoResize" Height="407">
+        " Width="528" Background="Black" ResizeMode="NoResize" Height="407">
     <Canvas HorizontalAlignment="Center" Height="461" VerticalAlignment="Top" Width="568" Margin="0,-6,0,0">
         <Button x:Name="fe" Content="&#xD;&#xA;" Height="137" Canvas.Left="211.5" Canvas.Top="119.37" Width="137" Click="fe_button" BorderBrush="White" HorizontalAlignment="Center" VerticalAlignment="Top">
             <Button.Background>
@@ -34,6 +34,7 @@
                 <ImageBrush ImageSource="/powershell_logo-1536x1536-1089214986.png"/>
             </Button.Background>
         </Button>
-        <TextBlock Height="69" Canvas.Left="211.5" TextWrapping="Wrap" Canvas.Top="282.187" Width="137" TextAlignment="Center" Foreground="White" FontSize="11"><Run/><LineBreak/><Run Text="BecomeTrustedInstaller"/><LineBreak/><Run Text="GUI v1.0 by dcre"/><LineBreak/><Run Text="NtObjectManager v1.1.20"/><LineBreak/><Run/></TextBlock>
+        <Button x:Name="extras" Content="Extras" Height="19" Canvas.Left="215.5" Canvas.Top="323.707" Width="137" Click="extras_button" BorderBrush="White" Background="#FF232323" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Center"/>
     </Canvas>
 </Window>
+

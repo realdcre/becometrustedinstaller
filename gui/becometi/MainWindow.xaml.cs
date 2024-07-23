@@ -38,6 +38,26 @@ namespace becometi
                 MessageBox.Show($"Error running script: {ex.Message}");
             }
         }
+        static void executePowerShellCommand(string command)
+        {
+            try
+            {
+                ProcessStartInfo processInfo = new ProcessStartInfo("powershell.exe")
+                {
+                    Arguments = $"-Command \"{command}\"",
+                    CreateNoWindow = false,
+                    UseShellExecute = true,
+                    Verb = "runas" // This ensures the process is started with elevated privileges
+                };
+
+                Process process = Process.Start(processInfo);
+                process.WaitForExit(); // Optional: wait for the process to exit
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error executing PowerShell command: {ex.Message}");
+            }
+        }
 
         public MainWindow()
         {
@@ -73,5 +93,11 @@ namespace becometi
         {
             runscript("stoptiservice.ps1");
         }
+        private void extras_button(object sender, RoutedEventArgs e)
+        {
+            Window1 secondWindow = new Window1();
+            secondWindow.Show();
+        }
+
     }
 }

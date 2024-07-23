@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cli",
-    "\\cli\\becometi"
+    "\\gui",
+    "\\gui\\becometi"
   ],
-  "SelectedNode": "\\cli\\becometi\\Program.cs",
+  "SelectedNode": "\\gui\\becometi\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,30 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\",
+  "WorkspaceRootPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\becometi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\becometi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\gui\\becometi\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\gui\\becometi\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\gui\\becometi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Constantin Jacob\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\gui\\becometi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\gui\\becometi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\source\\repos\\becometi\\becometi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\gui\\becometi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\gui\\becometi\\becometi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\becometi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|c:\\users\\constantin jacob\\documents\\github\\becometrustedinstaller\\gui\\becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10BA267F-7D54-490F-B12F-DBBAC95A8CEA}|becometi\\becometi.csproj|solutionrelative:becometi\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,27 +45,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "becometi",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\becometi.csproj",
-              "RelativeDocumentMoniker": "becometi\\becometi.csproj",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\becometi.csproj",
-              "RelativeToolTip": "becometi\\becometi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T17:42:12.629Z",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "becometi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\MainWindow.xaml",
+              "RelativeToolTip": "becometi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T09:30:26.916Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAJwBAAAAAAAAAAAUwLUBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:56:03.77Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "becometi\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\Window1.xaml.cs",
+              "RelativeToolTip": "becometi\\Window1.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:52:14.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\Window1.xaml",
+              "RelativeDocumentMoniker": "becometi\\Window1.xaml",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\Window1.xaml",
+              "RelativeToolTip": "becometi\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-23T13:15:01.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "becometi",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
+              "RelativeDocumentMoniker": "becometi\\becometi.csproj",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
+              "RelativeToolTip": "becometi\\becometi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T17:42:12.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "app.manifest",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\app.manifest",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\app.manifest",
               "RelativeDocumentMoniker": "becometi\\app.manifest",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\app.manifest",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\app.manifest",
               "RelativeToolTip": "becometi\\app.manifest",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
@@ -62,11 +123,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "becometi\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\AssemblyInfo.cs",
               "RelativeToolTip": "becometi\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\App.xaml",
               "RelativeDocumentMoniker": "becometi\\App.xaml",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\App.xaml",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\App.xaml",
               "RelativeToolTip": "becometi\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-21T16:31:46.704Z",
@@ -86,25 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "becometi\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\MainWindow.xaml",
-              "RelativeToolTip": "becometi\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-21T09:30:26.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "becometi\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\MainWindow.xaml.cs",
               "RelativeToolTip": "becometi\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAgAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T09:30:25.427Z"
             }

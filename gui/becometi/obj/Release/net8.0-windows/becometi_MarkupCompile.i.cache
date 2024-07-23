@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Constantin Jacob\source\repos\becometi\becometi\obj\Release\net8.0-windows\
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\gui\becometi\obj\Release\net8.0-windows\
 becometi
 none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
-C:\Users\Constantin Jacob\source\repos\becometi\becometi\App.xaml
-11407045341
+C:\Users\Constantin Jacob\Documents\GitHub\becometrustedinstaller\gui\becometi\App.xaml
+21940794329
 1-1554657701
-6583758587
+71513098299
 198-1509178875
-MainWindow.xaml;
+MainWindow.xaml;Window1.xaml;
 
-False
+True
 

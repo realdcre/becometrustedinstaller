@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\becometi.csproj",
+      "projectUniqueName": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
       "projectName": "becometi",
-      "projectPath": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\becometi.csproj",
+      "projectPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
       "packagesPath": "C:\\Users\\Constantin Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Constantin Jacob\\source\\repos\\becometi\\becometi\\obj\\",
+      "outputPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
