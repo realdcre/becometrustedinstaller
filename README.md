@@ -7,12 +7,26 @@
 Become Trusted Installer 
 with the power of PowerShell! 
 
-
-## IN ORDER FOR THIS TO WORK, YOU HAVE TO ENABLE SCRIPT RUNNING IN THE WINDOWS DEV SETTINGS
+The Classic PS1 script format will soon be replaced by a in-house Engine. The rollout of BTI core 1-5 built on this new Engine has started with GUI.1.2. IN ORDER FOR THIS TO WORK, YOU HAVE TO ENABLE SCRIPT RUNNING IN THE WINDOWS DEV SETTINGS
 
 All my Implementation in this repository is based on the fantastic research by tyrannid (https://www.tiraniddo.dev/  https://github.com/tyranid)
 
-# What are the powershell-scripts doing?
+# What is the Executable doing? (BTI core 1-5+)
+The executable contains all neccesary code to execute both legacy PS1 scripts with BTI core 1 and the newer BTI core 1-5 actions.
+
+These work by directly injecting into PowerShell, negating the need for a file and increasing security and speed. 
+
+Most parts of the executeble are for cosmetic purposes and a wrapper for older CLI code still left within.
+
+![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/Becometiuiq.png)
+
+# roadmap
+- create installer
+- update GUI/ WinUI implementation
+- fully update to BTI core 1-5
+- pack everything into one executable
+
+# What are the powershell-scripts doing? (BTI core 1)
 ![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/trustedinstaller1.png)
 The Windows users out there will probably know the pain of wanting to delete a file in system directories only to find it protected by Microsofts dreading TrustedInstaller.
 This script uses PowerShell to "impersonate" TrustedInstaller. 
@@ -27,11 +41,4 @@ They use NtObjectManager to get the processname from TrustedInstaller.exe to cre
 ## starttiservice.ps1 / stoptiservice.ps1
 Start / Stop the TrustedInstaller Service
 
-# What is the Executable doing?
-The executable is just a wrapper for the .ps1 scripts to make them feel nicer. The executable needs to run with Elevated Privileges in order to run the ps1 scripts as admin. GUI editions also add a interaction layer to the cli.
-
-![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/Becometiuiq.png)
-
-# roadmap
-- create installer
-- update GUI/ WinUI implementation
+![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/bticorelogo.png)
