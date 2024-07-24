@@ -11,8 +11,8 @@ The Classic PS1 script format will soon be replaced by a in-house Engine. The ro
 
 All my Implementation in this repository is based on the fantastic research by tyrannid (https://www.tiraniddo.dev/  https://github.com/tyranid)
 
-# What is the Executable doing? (BTI core 1-5+)
-The executable contains all neccesary code to execute both legacy PS1 scripts with BTI core 1 and the newer BTI core 1-5 actions.
+# What is the Executable doing?
+The executable contains all neccesary code to execute both legacy PS1 scripts and newer C# integrated PS-Actions
 
 These work by directly injecting into PowerShell, negating the need for a file and increasing security and speed. 
 
@@ -23,10 +23,9 @@ Most parts of the executeble are for cosmetic purposes and a wrapper for older C
 # roadmap
 - create installer
 - update GUI/ WinUI implementation
-- fully update to BTI core 1-5
 - pack everything into one executable
 
-# What are the powershell-scripts doing? (BTI core 1)
+# What are the powershell-scripts doing?
 ![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/trustedinstaller1.png)
 The Windows users out there will probably know the pain of wanting to delete a file in system directories only to find it protected by Microsofts dreading TrustedInstaller.
 This script uses PowerShell to "impersonate" TrustedInstaller. 
