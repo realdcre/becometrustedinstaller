@@ -97,19 +97,7 @@ namespace becometi
             });
         }
 
-        private void send_button(object sender, RoutedEventArgs e)
-        {
-            string input = pscommand.Text;
-            powershellastrustedinstaller(psti, input);
-        }
-
-        private void pscommand_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.Key == Key.Enter)
-            {
-                send_button(sender, e); // Trigger the send_button method on Enter key press
-            }
-        }
+       
 
         private void uninstalldep_button(object sender, RoutedEventArgs e)
         {

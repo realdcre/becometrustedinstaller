@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i8tIH+cHxrg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Constantin Jacob\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\Constantin Jacob\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.5\\microsoft.netcore.app.runtime.win-x86.8.0.5.nupkg.sha512",
+    "C:\\Users\\Constantin Jacob\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.5.nupkg.sha512",
+    "C:\\Users\\Constantin Jacob\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.5\\microsoft.aspnetcore.app.runtime.win-x86.8.0.5.nupkg.sha512",
+    "C:\\Users\\Constantin Jacob\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.5\\microsoft.netcore.app.crossgen2.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
