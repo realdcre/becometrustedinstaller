@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
+      "projectUniqueName": "F:\\dev\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
       "projectName": "becometi",
-      "projectPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
+      "projectPath": "F:\\dev\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
       "packagesPath": "C:\\Users\\Constantin Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\obj\\",
+      "outputPath": "F:\\dev\\becometrustedinstaller\\gui\\becometi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj": {}
+    "F:\\dev\\becometrustedinstaller\\gui\\becometi\\becometi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj": {
+    "F:\\dev\\becometrustedinstaller\\gui\\becometi\\becometi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
+        "projectUniqueName": "F:\\dev\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
         "projectName": "becometi",
-        "projectPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
+        "projectPath": "F:\\dev\\becometrustedinstaller\\gui\\becometi\\becometi.csproj",
         "packagesPath": "C:\\Users\\Constantin Jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Constantin Jacob\\Documents\\GitHub\\becometrustedinstaller\\gui\\becometi\\obj\\publish\\win-x86\\",
+        "outputPath": "F:\\dev\\becometrustedinstaller\\gui\\becometi\\obj\\publish\\win-x86\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,7 +53,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.5, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             }
           },
@@ -71,19 +71,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
-              "version": "[8.0.5, 8.0.5]"
+              "version": "[8.0.8, 8.0.8]"
             },
             {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-              "version": "[8.0.5, 8.0.5]"
+              "version": "[8.0.8, 8.0.8]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x86",
-              "version": "[8.0.5, 8.0.5]"
+              "version": "[8.0.8, 8.0.8]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
-              "version": "[8.0.5, 8.0.5]"
+              "version": "[8.0.8, 8.0.8]"
             }
           ],
           "frameworkReferences": {
@@ -94,7 +94,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

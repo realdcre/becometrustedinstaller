@@ -1,2 +1,1 @@
-cd C:\windows\servicing\
-start-service trustedinstaller
+cd C:\windows\servicing\; start-service trustedinstaller

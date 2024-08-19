@@ -1,0 +1,7 @@
+F:\dev\Release\becometrustedinstaller\v1-5\becometi.pdb
+F:\dev\Release\becometrustedinstaller\v1-5\D3DCompiler_47_cor3.dll
+F:\dev\Release\becometrustedinstaller\v1-5\PenImc_cor3.dll
+F:\dev\Release\becometrustedinstaller\v1-5\PresentationNative_cor3.dll
+F:\dev\Release\becometrustedinstaller\v1-5\vcruntime140_cor3.dll
+F:\dev\Release\becometrustedinstaller\v1-5\wpfgfx_cor3.dll
+F:\dev\Release\becometrustedinstaller\v1-5\becometi.exe

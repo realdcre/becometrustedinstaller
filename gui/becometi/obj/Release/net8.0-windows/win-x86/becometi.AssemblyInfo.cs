@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("becometi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e0170b8a0ff83dea9943d730300f6155acc56b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caaeb7a0f3e4d4dfcf4793eae40490016ca9f5bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("becometi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("becometi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

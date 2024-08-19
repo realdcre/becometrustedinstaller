@@ -61,37 +61,37 @@ namespace becometi
 
         public MainWindow()
         {
-            runscript("restarttiservice.ps1");
+            executePowerShellCommand("cd C:\\windows\\servicing\\; start-service trustedinstaller");
         }
 
         private void ps_button(object sender, RoutedEventArgs e)
         {
-            runscript("PS.ps1");
+            executePowerShellCommand("Import-Module NtObjectManager; $p = get-ntprocess -name TrustedInstaller.exe; New-Win32process powershell.exe -creationflags Newconsole -parentprocess $p");
         }
 
         private void fe_button(object sender, RoutedEventArgs e)
         {
-            runscript("fe.ps1");
+            executePowerShellCommand("Import-Module NtObjectManager; $p = get-ntprocess -name TrustedInstaller.exe; New-Win32process explorer.exe -creationflags Newconsole -parentprocess $p");
         }
 
         private void cmd_button(object sender, RoutedEventArgs e)
         {
-            runscript("cmd.ps1");
+            executePowerShellCommand("Import-Module NtObjectManager; $p = get-ntprocess -name TrustedInstaller.exe; New-Win32process cmd.exe -creationflags Newconsole -parentprocess $p");
         }
 
         private void install_button(object sender, RoutedEventArgs e)
         {
-            runscript("installdependencies.ps1");
+            executePowerShellCommand("Install-Module -Name NtObjectManager -RequiredVersion 1.1.20");
         }
 
         private void start_button(object sender, RoutedEventArgs e)
         {
-            runscript("restarttiservice.ps1");
+            executePowerShellCommand("cd C:\\windows\\servicing\\; start-service trustedinstaller");
         }
 
         private void stop_button(object sender, RoutedEventArgs e)
         {
-            runscript("stoptiservice.ps1");
+            executePowerShellCommand("cd C:\\windows\\servicing\\; stop-service trustedinstaller");
         }
         private void extras_button(object sender, RoutedEventArgs e)
         {
