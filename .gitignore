@@ -1,2 +1,45 @@
-/cli/becometi/bin
-/gui/becometi/bin
+# Visual Studio and .NET MAUI specific files
+bin/
+obj/
+*.user
+*.vs/
+*.suo
+*.csproj.user
+
+# Windows and .NET specific files
+Thumbs.db
+*.pdb
+*.ilk
+*.pch
+*.idb
+*.pdb.meta
+
+# Other files and folders
+packages/
+*.log
+*.tmp
+*.cache
+*.resharper
+*.vspscc
+*.vssscc
+*.ipch
+*.DS_Store
+*.ini
+
+# Build and debug files
+Debug/
+Release/
+[xX][dD][eE][bB][uU][gG]/
+[xX][rR][eE][lL][eE][aA][sS][eE]/
+
+# NuGet packages
+packages/
+
+# Miscellaneous
+*.iml
+*.ipdb
+*.opendb
+*.opensdf
+*.sdf
+*.sqlite
+*.userprefs
