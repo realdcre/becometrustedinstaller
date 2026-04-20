@@ -21,7 +21,7 @@ These work by directly injecting into PowerShell, negating the need for a file a
 
 Most parts of the executeble are for cosmetic purposes and a wrapper for older CLI code still left within.
 
-![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/Becometiuiq.png)
+![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/Becometiui.png)
 
 # roadmap
 - create installer
