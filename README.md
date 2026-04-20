@@ -1,3 +1,6 @@
+## This Repository was Archived and is permanently moved to 
+[https://codeberg.org/LDNX-LLC/NotifyDroid](https://codeberg.org/dcre/becometrustedinstaller)
+
 ![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/becometilogo-upscaled.png)
 
 
@@ -7,7 +10,7 @@
 Become Trusted Installer 
 with the power of PowerShell! 
 
-The Classic PS1 script format will soon be replaced by a in-house Engine. The rollout of BTI core 1-5 built on this new Engine has started with GUI.1.2. IN ORDER FOR THIS TO WORK, YOU HAVE TO ENABLE SCRIPT RUNNING IN THE WINDOWS DEV SETTINGS
+IN ORDER FOR THIS TO WORK, YOU HAVE TO ENABLE SCRIPT RUNNING IN THE WINDOWS DEV SETTINGS
 
 All my Implementation in this repository is based on the fantastic research by tyrannid (https://www.tiraniddo.dev/  https://github.com/tyranid)
 
@@ -40,4 +43,4 @@ They use NtObjectManager to get the processname from TrustedInstaller.exe to cre
 ## starttiservice.ps1 / stoptiservice.ps1
 Start / Stop the TrustedInstaller Service
 
-![alt text](https://github.com/realdcre/becometrustedinstaller/blob/main/assets/bticorelogo.png)
+
